@@ -401,7 +401,7 @@ body {
 /* PORTFOLIO.HTML */
 /* MAIN CONTENT */
 
-/* .item {
+.item {
 
     margin-left: var(--primary-margin-btwn-items);
 
@@ -420,7 +420,7 @@ body {
     border-radius: 0px 0px 4px 4px;
 
     background-color: var(--primary-background-color);
-} */
+}
 
 /* Our team  */
 
@@ -451,7 +451,7 @@ body {
 
 /* Customers styles */
 
-/* .customers {}
+.customers {}
 
 .customers-list {
     display: flex;
@@ -484,7 +484,7 @@ body {
 .customers-link:focus {
     color: var(--primary-brand);
     border-color: var(--primary-brand);
-} */
+}
 
 /* Filter button */
 
@@ -519,7 +519,7 @@ body {
 
 /* Portfolio items */
 
-/* .button-list {
+.button-list {
     padding: 0px;
     margin-top: 0px;
     display: flex;
@@ -527,7 +527,7 @@ body {
     justify-content: center;
     margin-bottom: 72px;
     list-style: none;
-} */
+}
 
 
 
